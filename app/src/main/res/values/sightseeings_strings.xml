@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Sightseeing 1 information -->
+    <string name="sightseeing_1_name">Santiago Bernabéu</string>
+    <string name="sightseeing_1_address">Avenida de Concha Espina, 1</string>
+
+    <!-- Sightseeing 2 information -->
+    <string name="sightseeing_2_name">Plaza de Cibeles</string>
+    <string name="sightseeing_2_address">Plaza de Cibeles</string>
+
+    <!-- Sightseeing 3 information -->
+    <string name="sightseeing_3_name">Plaza de Colón</string>
+    <string name="sightseeing_3_address">Plaza de Colón</string>
+
+    <!-- Sightseeing 4 information -->
+    <string name="sightseeing_4_name">Congreso de los Diputados</string>
+    <string name="sightseeing_4_address">Calle de Floridablanca, s/n</string>
+
+    <!-- Sightseeing 5 information -->
+    <string name="sightseeing_5_name">Plaza Mayor</string>
+    <string name="sightseeing_5_address">Plaza Mayor</string>
+
+    <!-- Sightseeing 6 information -->
+    <string name="sightseeing_6_name">Puerta del Sol</string>
+    <string name="sightseeing_6_address">Plaza de la Puerta del Sol, s/n</string>
+
+    <!-- Sightseeing 7 information -->
+    <string name="sightseeing_7_name">Gran Vía</string>
+    <string name="sightseeing_7_address">Gran Vía</string>
+
+    <!-- Sightseeing 8 information -->
+    <string name="sightseeing_8_name">Palacio Real</string>
+    <string name="sightseeing_8_address">Calle de Bailén, s/n</string>
+
+    <!-- Sightseeing 9 information -->
+    <string name="sightseeing_9_name">Biblioteca Nacional</string>
+    <string name="sightseeing_9_address">Paseo de Recoletos, 20\-22</string>
+
+</resources>

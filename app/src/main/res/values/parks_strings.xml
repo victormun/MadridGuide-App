@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Park 1 information -->
+    <string name="park_1_name">Casa de Campo</string>
+    <string name="park_1_address">Paseo Puerta del Angel, 1</string>
+
+    <!-- Park 2 information -->
+    <string name="park_2_name">Madrid Río</string>
+    <string name="park_2_address">Puente de Toledo, s/n</string>
+
+    <!-- Park 3 information -->
+    <string name="park_3_name">Campo del Moro</string>
+    <string name="park_3_address">Paseo de la Virgen del Puerto, s/n</string>
+
+    <!-- Park 4 information -->
+    <string name="park_4_name">Parque del Retiro</string>
+    <string name="park_4_address">Plaza de la Independencia, 7</string>
+
+    <!-- Park 5 information -->
+    <string name="park_5_name">Parque del Oeste</string>
+    <string name="park_5_address">Paseo de Moret, 2</string>
+
+    <!-- Park 6 information -->
+    <string name="park_6_name">Parque de El Capricho</string>
+    <string name="park_6_address">Paseo de la Alameda de Osuna, 26\-32</string>
+
+    <!-- Park 7 information -->
+    <string name="park_7_name">Rosaleda del parque del Oeste</string>
+    <string name="park_7_address">Calle Rosaleda, 2</string>
+</resources>

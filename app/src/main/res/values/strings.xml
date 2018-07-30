@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Madrid Guide</string>
+    <string name="title_restaurants">Restaurants</string>
+    <string name="title_parks">Parks</string>
+    <string name="title_museums">Museums</string>
+    <string name="title_sightseeings">Sightseeings</string>
+</resources>

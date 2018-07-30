@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Museum 1 information -->
+    <string name="museum_1_name">Museo Nacional del Prado</string>
+    <string name="museum_1_address">Paseo del Prado, s/n</string>
+    <string name="museum_1_type">General Art</string>
+
+    <!-- Museum 2 information -->
+    <string name="museum_2_name">Museo Arqueológico Nacional</string>
+    <string name="museum_2_address">Calle de Serrano, 13</string>
+    <string name="museum_2_type">History, Archeology, Anthropology</string>
+
+    <!-- Museum 3 information -->
+    <string name="museum_3_name">Museo Reina Sofía</string>
+    <string name="museum_3_address">Calle de Santa Isabel, 52</string>
+    <string name="museum_3_type">Modernism, Expressionism</string>
+
+    <!-- Museum 4 information -->
+    <string name="museum_4_name">Museo Thyssen-Bornemisza</string>
+    <string name="museum_4_address">Paseo del Prado, 8</string>
+    <string name="museum_4_type">General Art, Impressionism</string>
+
+    <!-- Museum 5 information -->
+    <string name="museum_5_name">Museo Sorolla</string>
+    <string name="museum_5_address">Paseo del General Martínez Campos, 37</string>
+    <string name="museum_5_type">Impressionism</string>
+
+    <!-- Museum 6 information -->
+    <string name="museum_6_name">Museo del Romanticismo</string>
+    <string name="museum_6_address">Calle de San Mateo, 13</string>
+    <string name="museum_6_type">Art, History, Lifestyle, Objects</string>
+
+    <!-- Museum 7 information -->
+    <string name="museum_7_name">Museo de Ciencias Naturales</string>
+    <string name="museum_7_address">Calle de José Gutiérrez Abascal, 2</string>
+    <string name="museum_7_type">Science, Natural History</string>
+
+    <!-- Museum 8 information -->
+    <string name="museum_8_name">Museo de América</string>
+    <string name="museum_8_address">Avenida de los Reyes Católicos, 6</string>
+    <string name="museum_8_type">American History, American Art, Lifestyle</string>
+
+    <!-- Museum 9 information -->
+    <string name="museum_9_name">Museo de Historia de Madrid</string>
+    <string name="museum_9_address">Calle de Fuencarral, 78</string>
+    <string name="museum_9_type">Regional History, Regional Art</string>
+
+    <!-- Museum 10 information -->
+    <string name="museum_10_name">Museo del Traje</string>
+    <string name="museum_10_address">Avenida de Juan de Herrera, 2</string>
+    <string name="museum_10_type">Clothing History</string>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Restaurant 1 information -->
+    <string name="restaurant_1_name">El Molinero</string>
+    <string name="restaurant_1_address">Calle de la Alhambra, 72</string>
+    <string name="restaurant_1_type">Grill, Traditional</string>
+    <string name="restaurant_1_rating">5</string>
+
+    <!-- Restaurant 2 information -->
+    <string name="restaurant_2_name">DSTAGE</string>
+    <string name="restaurant_2_address">Calle de Regueros, 8</string>
+    <string name="restaurant_2_type">Industrial, Chic, Creative</string>
+    <string name="restaurant_2_rating">5</string>
+
+    <!-- Restaurant 3 information -->
+    <string name="restaurant_3_name">La Candela Restó</string>
+    <string name="restaurant_3_address">Calle de la Amnistia, 10</string>
+    <string name="restaurant_3_type">Fusion, Asian, Local</string>
+    <string name="restaurant_3_rating">5</string>
+
+    <!-- Restaurant 4 information -->
+    <string name="restaurant_4_name">CEBO</string>
+    <string name="restaurant_4_address">Carrera de San Jerónimo, 34</string>
+    <string name="restaurant_4_type">Mediterranean, Local</string>
+    <string name="restaurant_4_rating">4</string>
+
+    <!-- Restaurant 5 information -->
+    <string name="restaurant_5_name">Ático</string>
+    <string name="restaurant_5_address">Calle Marqués de Valdeiglesias, 1</string>
+    <string name="restaurant_5_type">Mediterranean, Author</string>
+    <string name="restaurant_5_rating">4</string>
+
+    <!-- Restaurant 6 information -->
+    <string name="restaurant_6_name">Algarabia</string>
+    <string name="restaurant_6_address">Calle Unión, 8</string>
+    <string name="restaurant_6_type">Riojan Food, Traditional</string>
+    <string name="restaurant_6_rating">4</string>
+
+    <!-- Restaurant 7 information -->
+    <string name="restaurant_7_name">Ramón Freixa</string>
+    <string name="restaurant_7_address">Calle de Claudio Coello, 67</string>
+    <string name="restaurant_7_type">Modern, High kitchen, Author</string>
+    <string name="restaurant_7_rating">5</string>
+
+    <!-- Restaurant 8 information -->
+    <string name="restaurant_8_name">Santceloni</string>
+    <string name="restaurant_8_address">Paseo de la Castellana, 57</string>
+    <string name="restaurant_8_type">Modern, High kitchen, Wine, Cheese</string>
+    <string name="restaurant_8_rating">5</string>
+
+</resources>
